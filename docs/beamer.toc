@@ -1,0 +1,10 @@
+\beamer@endinputifotherversion {3.10pt}
+\beamer@sectionintoc {1}{Historia}{6}{0}{1}
+\beamer@subsectionintoc {1}{1}{Euclides}{6}{0}{1}
+\beamer@subsectionintoc {1}{2}{Arqu\IeC {\'\i }medes}{6}{0}{1}
+\beamer@sectionintoc {2}{Enfoque matem\IeC {\'a}tico}{7}{0}{2}
+\beamer@sectionintoc {3}{Ejercicios}{12}{0}{3}
+\beamer@subsectionintoc {3}{1}{Una subsecci\IeC {\'o}n}{12}{0}{3}
+\beamer@subsectionintoc {3}{2}{Creaci\IeC {\'o}n de diapositivas}{13}{0}{3}
+\beamer@subsectionintoc {3}{3}{Otra subseccion}{17}{0}{3}
+\beamer@sectionintoc {4}{Bibliograf\IeC {\'\i }a}{19}{0}{4}
